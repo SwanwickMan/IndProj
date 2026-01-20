@@ -1,0 +1,14 @@
+c:\Users\andre\Desktop\IndProj\BinarySearch\obj\Debug\net8.0\binarySearch.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\andre\Desktop\IndProj\BinarySearch\obj\Debug\net8.0\binarySearch.AssemblyInfoInputs.cache
+c:\Users\andre\Desktop\IndProj\BinarySearch\obj\Debug\net8.0\binarySearch.AssemblyInfo.cs
+c:\Users\andre\Desktop\IndProj\BinarySearch\obj\Debug\net8.0\binarySearch.csproj.CoreCompileInputs.cache
+c:\Users\andre\Desktop\IndProj\BinarySearch\binarySearch.exe
+c:\Users\andre\Desktop\IndProj\BinarySearch\obj\Debug\net8.0\binarySearch.dll
+c:\Users\andre\Desktop\IndProj\BinarySearch\obj\Debug\net8.0\refint\binarySearch.dll
+c:\Users\andre\Desktop\IndProj\BinarySearch\obj\Debug\net8.0\binarySearch.pdb
+c:\Users\andre\Desktop\IndProj\BinarySearch\binarySearch.deps.json
+c:\Users\andre\Desktop\IndProj\BinarySearch\obj\Debug\net8.0\binarySearch.genruntimeconfig.cache
+c:\Users\andre\Desktop\IndProj\BinarySearch\binarySearch.runtimeconfig.json
+c:\Users\andre\Desktop\IndProj\BinarySearch\binarySearch.dll
+c:\Users\andre\Desktop\IndProj\BinarySearch\obj\Debug\net8.0\ref\binarySearch.dll
+c:\Users\andre\Desktop\IndProj\BinarySearch\binarySearch.pdb

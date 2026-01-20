@@ -1,0 +1,54 @@
+# =====================
+# Dafny
+# =====================
+
+# Dafny verification and compilation outputs
+*.dll
+*.exe
+*.pdb
+*.json
+*.bpl
+*.dfy.tmp
+
+# Generated C# code (if using dafny translate)
+*.cs
+
+# Dafny build / cache directories (if present)
+.dafny/
+_dafny/
+
+
+# =====================
+# .NET / NuGet
+# =====================
+
+bin/
+obj/
+.nuget/
+packages/
+
+
+# =====================
+# VS Code
+# =====================
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+
+# =====================
+# OS junk
+# =====================
+
+.DS_Store
+Thumbs.db
+
+
+# =====================
+# PDFs / course material
+# =====================
+
+program-proofs-rustan-leino.pdf
