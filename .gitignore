@@ -12,6 +12,7 @@
 
 # Generated C# code (if using dafny translate)
 *.cs
+*.csproj
 
 # Dafny build / cache directories (if present)
 .dafny/

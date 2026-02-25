@@ -3,7 +3,7 @@ method SumUpTo(n: int) returns (s: int)
     requires n >= 0
 
     // Postcondition: the result s is equal to 1 + 2 + ... + n
-    // using the closed form n*(n+1)/2
+    // using the closed form n*(n+1)/2 summation formula
     ensures s == n * (n + 1) / 2
 {
     var i := 0;
@@ -17,4 +17,10 @@ method SumUpTo(n: int) returns (s: int)
         i := i + 1;
         s := s + i;
     }
+}
+
+method Main()
+{
+    var sum := SumUpTo(5);
+    print sum;
 }
