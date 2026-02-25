@@ -1,0 +1,14 @@
+{
+  "name": "Dafny Playground",
+  "image": "mcr.microsoft.com/devcontainers/dotnet:8.0",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dafny-lang.ide-vscode",
+        "roberto-saltini.dafny-cli",
+      ]
+    }
+  },
+  "postCreateCommand": "dotnet tool install -g dafny",
+  "remoteUser": "vscode"
+}
